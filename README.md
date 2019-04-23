@@ -1,3 +1,17 @@
 # songci
-宋词从入门到装逼
-On GitHub, saved changes are called commits. Each commit has an associated commit message, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why
+《宋词，从入门到卜算子》
+
+
+卜算子.咏梅
+作者：毛泽东
+
+风雨送春归，飞雪迎春到。
+已是悬崖百丈冰，犹有花枝俏。
+俏也不争春，只把春来报。
+待到山花烂漫时，她在丛中笑。
+
+
+如梦令·昨夜雨疏风骤
+作者：李清照
+
+昨夜雨疏风骤，浓睡不消残酒。试问卷帘人，却道海棠依旧。知否，知否？应是绿肥红瘦。
